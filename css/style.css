@@ -1,0 +1,15 @@
+div,
+    {
+    color: blue
+}
+
+div {
+    color: blueviolet;
+    border: 1px dashed red;
+    font-size: 23px;
+    font-weight: bolder;
+    text-align: center;
+    line-height: 2;
+    letter-spacing: 3px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
