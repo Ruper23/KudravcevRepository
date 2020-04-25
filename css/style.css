@@ -1,15 +1,26 @@
-div,
-    {
-    color: blue
+p {
+    color: blueviolet;
+    border: 2px dashed black;
+    font-size: 18px;
+    font-weight: bolder;
+    text-align: left;
+    line-height: 1;
+    letter-spacing: 2px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 25px;
+    padding: 45px;
+    width: 300px;
+    border-radius: 3rem;
 }
 
-div {
-    color: blueviolet;
-    border: 1px dashed red;
-    font-size: 23px;
-    font-weight: bolder;
+h1 {
+    border-radius: 3rem;
+    border: 2px dashed palevioletred;
     text-align: center;
-    line-height: 2;
-    letter-spacing: 3px;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-top-style: inset;
+}
+
+html {
+    background-image: url(http://bgfons.com/upload/sky_texture1980.jpg)
+    
 }
